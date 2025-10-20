@@ -1,0 +1,13 @@
+---
+title: "Startseite der R users group Würzburg (RUG Würzburg)"
+---
+
+This will be the a Quarto website of the R user group Würzburg.
+
+We are also registered on "meetup.com" [RUG Würzburg meetup Page](www.meetup.com).
+
+Entry in jumping-rivers [R user groups worldwide](https://jumpingrivers.github.io/meetingsR/r-user-groups.html)
+
+# You want to join our community, get the newsletter or even help organizing? 
+
+Then write us: [mailto:r-user-group-wuerzburg\@proton.me](mailto:r-user-group-wuerzburg@proton.me)
